@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 with st.sidebar:
-    st.sidebar.write("Developed by Yazeed")
+    st.sidebar.write("Developed by Moneymoon")
 
 st.title("Eid Images Generator! 🎉")
 
