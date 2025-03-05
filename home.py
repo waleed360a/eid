@@ -72,10 +72,10 @@ if st.button("Generate Eid Image"):
         mime="image/png",
     )
 
-with st.expander("Contacts Information"):
-    st.text("Contact Us via:")
-    st.markdown("[Twitter](https://x.com/_YazeedA)")
-    st.markdown("[LinkedIn](https://www.linkedin.com/in/yazeedalobaidan/)")
+#with st.expander("Contacts Information"):
+ #   st.text("Contact Us via:")
+  #  st.markdown("[Twitter](https://x.com/_YazeedA)")
+   # st.markdown("[LinkedIn](https://www.linkedin.com/in/yazeedalobaidan/)")
     
     
 
